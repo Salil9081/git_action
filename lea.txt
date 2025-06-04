@@ -1,0 +1,7 @@
+aws terraform jenkins kubernets revison
+github gitlab
+yaml files 
+jenkins and github ci files
+shell scripting
+GCP and gitlab parallel
+prometheous and grfana
